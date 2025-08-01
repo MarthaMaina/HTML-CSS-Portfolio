@@ -5,12 +5,12 @@
 ###### ✅ Fully Responsive – Works on mobile, tablet, and desktop
 ###### ✅ Modern & Minimalist Design – Clean layout with smooth animations
 ###### ✅ Six Key Sections:
-     ###### About Me (with profile image)
-     ###### Education Background (Chuka University details included)
-     ###### Technical Skills (programming languages & tools)
-     ###### Projects Showcase (with links to your work)
-     ###### Interests & Hobbies (show your personality)
-     ###### Contact Form (for potential employers/clients)
+  ###### About Me (with profile image)
+  ###### Education Background (Chuka University details included)
+  ###### Technical Skills (programming languages & tools)
+  ###### Projects Showcase (with links to your work)
+  ###### Interests & Hobbies (show your personality)
+  ###### Contact Form (for potential employers/clients)
 ###### ✅ Semantic HTML – Better accessibility & SEO
 ###### ✅ Optimized for GitHub Pages – Easy deployment
 ## 🚀 Quick Setup Guide
